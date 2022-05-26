@@ -64,3 +64,7 @@ h1 {
     color: #7F8CFF;
     text-decoration:none;
 }
+
+#social a {
+    margin-right: 12px;
+}

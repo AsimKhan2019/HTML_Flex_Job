@@ -1,8 +1,13 @@
+@font-face {
+  font-family: 'Poppins';
+  src: url(https://fonts.googleapis.com/css?family=Poppins&display=swap);
+}
+
 body {
   margin: 0;
   width: 435px;
   background: #fff;
-  font-family: 'Poppins', 'Arial', 'Helvetica';
+  font-family: 'Poppins';
   background-image: url('img/header-shapes mobile.svg');
   background-repeat: repeat-y;
   background-position-y: 88px;
@@ -34,7 +39,7 @@ body {
 }
 
 h1 {
-  font-family: 'Poppins', 'Arial', 'Helvetica';
+  font-family: 'Poppins';
   font-style: normal;
   font-weight: 700;
   font-size: 40px;

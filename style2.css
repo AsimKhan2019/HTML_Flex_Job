@@ -1,14 +1,14 @@
 body {
     margin: 0px;
-    width: 375px;
+    width: 435px;
     /*height: 5410px;*/
     background: #F7F7F9;
     font-family: 'Poppins';
-    padding: 30px;
+    /*padding: 30px;*/
     background-image: url('img/header-shapes mobile.svg');
     /*background-attachment: fixed;*/
     background-repeat: repeat-y;
-    background-position-y: 100px;
+    background-position-y: 88px;
     background-size: 435px;
 }
 
@@ -25,7 +25,8 @@ body {
 #topbar {
     display: flex;
     justify-content: space-between;
-    /*padding:12px;*/
+    padding:30px;
+    background: #F7F7F9;
 }
 
 #logo1 {
@@ -41,8 +42,8 @@ body {
 }
 
 #content {
-    margin-top: 100px;
-    
+    margin-top: 75px;
+    padding: 30px;
 }
 
 h1 {

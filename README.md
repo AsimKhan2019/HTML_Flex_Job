@@ -2,7 +2,7 @@
 
 # Project Name
 
-> This is a personal project to help us develop the mobile version of the Figma template. The purpose is to improve the development of website 
+> This is a personal project to help us develop the mobile version of the Figma template. The purpose is to improve the development of website and creating a mobile version of the website.
 
 
 ## Built With

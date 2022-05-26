@@ -1,47 +1,37 @@
 body {
     margin: 0px;
     width: 435px;
-    /*height: 5410px;*/
-    background: #F7F7F9;
+    background: #fff;
     font-family: 'Poppins';
-    /*padding: 30px;*/
     background-image: url('img/header-shapes mobile.svg');
-    /*background-attachment: fixed;*/
     background-repeat: repeat-y;
     background-position-y: 88px;
     background-size: 435px;
 }
 
 #main {
-    /*position: relative;
-    width: 375px;
-    height: 5410px;*/
     display: flex;
     flex-direction: column;
-    /*background: #F7F7F9;*/
-    
 }
 
 #topbar {
     display: flex;
     justify-content: space-between;
     padding:30px;
-    background: #F7F7F9;
+    background: #fff;
 }
 
-#logo1 {
-    /*padding: 10px;*/
-    color: #6070FF;
+#logo {
+    color: #6070ff;
     font-style: normal;
     font-weight: 700;
     font-size: 18px;
 }
 
 #hamburger {
-    /*padding: 10px*/
 }
 
-#content {
+#hero {
     margin-top: 75px;
     padding: 30px;
 }
@@ -54,7 +44,7 @@ h1 {
     line-height: 52px;
     display: flex;
     align-items: center;
-    color: #172B4D;
+    color: #172b4d;
 }
 
 #connect {
@@ -62,7 +52,7 @@ h1 {
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
-    color: #7F8CFF;
+    color: #7f8cff;
     text-decoration:none;
 }
 

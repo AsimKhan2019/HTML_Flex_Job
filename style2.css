@@ -1,10 +1,16 @@
-@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+* { 
+  margin: 0; 
+  padding: 0; 
+  box-sizing: border-box; 
+  font-family: "Poppins", sans-serif;
+}
 
 body {
   margin: 0;
   width: 435px;
   background: #fff;
-  font-family: 'Poppins';
   background-image: url('img/header-shapes mobile.svg');
   background-repeat: repeat-y;
   background-position-y: 88px;
@@ -36,10 +42,6 @@ body {
 }
 
 h1 {
-  font-family: 'Poppins';
-  font-style: normal;
-  font-weight: 700;
-  font-size: 40px;
   line-height: 52px;
   display: flex;
   align-items: center;

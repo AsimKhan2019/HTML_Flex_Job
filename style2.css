@@ -2,7 +2,7 @@ body {
   margin: 0px;
   width: 435px;
   background: #fff;
-  font-family: 'Poppins';
+  font-family: 'Poppins', 'Arial', 'Helvetica';
   background-image: url('img/header-shapes mobile.svg');
   background-repeat: repeat-y;
   background-position-y: 88px;
@@ -34,6 +34,7 @@ body {
 }
 
 h1 {
+  font-family: 'Poppins', 'Arial', 'Helvetica';
   font-style: normal;
   font-weight: 700;
   font-size: 40px;

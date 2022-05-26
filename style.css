@@ -242,3 +242,11 @@ body{
     order: 3;
     flex-grow: 0;
 }
+
+#socialmediaicon ul{
+    list-style-type: none;
+}
+
+#socialmediaicon ul li{
+    display: inline;
+}

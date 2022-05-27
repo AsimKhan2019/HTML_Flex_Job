@@ -75,28 +75,54 @@ h1 {
 
 #work{
   margin-top: 75px;
+  margin-left: 20px;
   padding: 30px;
 }
 
+#work1, #work2, #work3{
+  background-color: #fff;
+  /*border: 0.5px solid #808080;*/
+  padding: 26px;
+  border-radius: 10px;
+  box-shadow: 0 0 3px #ccc;
+}
+
+#work2, #work3{
+  margin-top: 75px;
+}
+
+#work2 h2, #work h2{
+  margin-top: -44px;
+}
+
+
 #description p , h2{
   padding-top: 10px;
-  padding-bottom: 20px;
+  padding-bottom: 15px;
   margin-left: 2px;
 }
 
 #description ul li{
-  list-style: none;
+  list-style-image: url('img/Counter.svg');
   display: inline;
-  margin-left: 10px;
+  margin: 10px 10px 0 2px;
+  font-size: small;
 }
 
 #skill li{
-  background-color: #94a1f7;
+  background-color: #c4ccff;
   border-radius: 10px;
   padding: 5px;
   color:#172b4d;
+  font-size: small;
 }
 
 #description button{
   margin-top: 30px;
+}
+
+#project{
+  outline: none;
+  border: 0;
+  border-color: transparent;
 }

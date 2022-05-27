@@ -55,8 +55,21 @@ h1 {
   line-height: 24px;
   color: #7f8cff;
   text-decoration: none;
+  display: block;
+  margin-top: 10px;
 }
 
+#social {
+  margin-top: 10px;
+}
 #social a {
   margin-right: 12px;
 }
+
+#social ul li{
+  list-style: none;
+  display: inline;
+  margin-left: 3px;
+}
+
+

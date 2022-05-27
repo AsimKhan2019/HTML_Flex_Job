@@ -62,14 +62,13 @@ h1 {
 #social {
   margin-top: 10px;
 }
+
 #social a {
   margin-right: 12px;
 }
 
-#social ul li{
+#social ul li {
   list-style: none;
   display: inline;
   margin-left: 3px;
 }
-
-

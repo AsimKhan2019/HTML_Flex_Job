@@ -79,7 +79,7 @@ h1 {
   padding: 30px;
 }
 
-#work1, #work2, #work3{
+#work1, #work2, #work3, #work4{
   background-color: #fff;
   /*border: 0.5px solid #808080;*/
   padding: 26px;
@@ -87,11 +87,11 @@ h1 {
   box-shadow: 0 0 3px #ccc;
 }
 
-#work2, #work3{
+#work2, #work3, #work4{
   margin-top: 75px;
 }
 
-#work2 h2, #work h2{
+#work2 h2, #work3 h2, #work4 h2{
   margin-top: -44px;
 }
 

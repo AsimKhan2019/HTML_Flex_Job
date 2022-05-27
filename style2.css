@@ -41,6 +41,11 @@ body {
   background-size: 435px;
 }
 
+#about {
+  margin-top: 75px;
+  padding: 30px;
+}
+
 h1 {
   line-height: 52px;
   display: flex;
@@ -117,12 +122,25 @@ h1 {
   font-size: small;
 }
 
-#description button{
+#description button {
   margin-top: 30px;
 }
 
-#project{
+#project, #resume {
   outline: none;
   border: 0;
   border-color: transparent;
+}
+
+#resume {
+  margin-top: 25px;
+}
+
+#list {
+  margin-top: 30px;
+}
+
+#list ul li{
+  list-style: none;
+  padding-top: 10px;
 }

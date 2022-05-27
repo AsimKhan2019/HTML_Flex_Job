@@ -11,10 +11,6 @@ body {
   margin: 0;
   width: 435px;
   background: #fff;
-  background-image: url('img/header-shapes mobile.svg');
-  background-repeat: repeat-y;
-  background-position-y: 88px;
-  background-size: 435px;
 }
 
 #main {
@@ -39,6 +35,10 @@ body {
 #hero {
   margin-top: 75px;
   padding: 30px;
+  background-image: url('img/header-shapes mobile.svg');
+  background-repeat: repeat-y;
+  background-position-y: 88px;
+  background-size: 435px;
 }
 
 h1 {
@@ -71,4 +71,32 @@ h1 {
   list-style: none;
   display: inline;
   margin-left: 3px;
+}
+
+#work{
+  margin-top: 75px;
+  padding: 30px;
+}
+
+#description p , h2{
+  padding-top: 10px;
+  padding-bottom: 20px;
+  margin-left: 2px;
+}
+
+#description ul li{
+  list-style: none;
+  display: inline;
+  margin-left: 10px;
+}
+
+#skill li{
+  background-color: #94a1f7;
+  border-radius: 10px;
+  padding: 5px;
+  color:#172b4d;
+}
+
+#description button{
+  margin-top: 30px;
 }

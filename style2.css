@@ -75,41 +75,22 @@ h1 {
   margin-right: 12px;
 }
 
+#skill li,
+#skill2 li,
+#skill3 li,
+#skill4 li {
+  background-color: #c4ccff;
+  border-radius: 10px;
+  padding: 5px;
+  color: #172b4d;
+  font-size: small;
+}
+
 #social ul li,
 #socialUs ul li {
   list-style: none;
   display: inline;
   margin-left: 3px;
-}
-
-#work {
-  margin-top: 75px;
-  margin-left: 20px;
-  padding: 30px;
-}
-
-#work1,
-#work2,
-#work3,
-#work4 {
-  background-color: #fff;
-
-  /* border: 0.5px solid #808080; */
-  padding: 26px;
-  border-radius: 10px;
-  box-shadow: 0 0 3px #ccc;
-}
-
-#work2,
-#work3,
-#work4 {
-  margin-top: 75px;
-}
-
-#work2 h2,
-#work3 h2,
-#work4 h2 {
-  margin-top: -44px;
 }
 
 #description p,
@@ -140,6 +121,34 @@ h2 {
   margin-left: 2px;
 }
 
+#work {
+  margin-top: 75px;
+  margin-left: 20px;
+  padding: 30px;
+}
+
+#work1,
+#work2,
+#work3,
+#work4 {
+  background-color: #fff;
+  padding: 26px;
+  border-radius: 10px;
+  box-shadow: 0 0 3px #ccc;
+}
+
+#work2,
+#work3,
+#work4 {
+  margin-top: 75px;
+}
+
+#work2 h2,
+#work3 h2,
+#work4 h2 {
+  margin-top: -44px;
+}
+
 #description ul li,
 #description2 ul li,
 #description3 ul li,
@@ -147,17 +156,6 @@ h2 {
   list-style-image: url('img/Counter.svg');
   display: inline;
   margin: 10px 10px 0 2px;
-  font-size: small;
-}
-
-#skill li,
-#skill2 li,
-#skill3 li,
-#skill4 li {
-  background-color: #c4ccff;
-  border-radius: 10px;
-  padding: 5px;
-  color: #172b4d;
   font-size: small;
 }
 
